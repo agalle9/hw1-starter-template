@@ -1,7 +1,7 @@
 # Homework 1 - Responding to Change
 
 ## Authors
-1) Name, netid, [GitHub profile name]
+1) Amanda Galle, vqm7hx, agalle9
 2) Name, netid, [GitHub profile name]
 3) Name, netid, [GitHub profile name]
 
